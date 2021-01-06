@@ -30,7 +30,7 @@ if operation == 'multiply':
 if operation == 'divide':
   num1 = int(input("Enter digit: "))
   total = num1
-  for i in range(time):
+  for i in range(time-1):
     num = int(input("Enter digit: "))
     total = total / num
 
