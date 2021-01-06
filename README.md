@@ -34,4 +34,4 @@ if operation == 'divide':
     num = int(input("Enter digit: "))
     total = total / num
 
-print("Your solution os: " + str(total))
+print("Your solution is: " + str(total))
