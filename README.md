@@ -33,3 +33,5 @@ if operation == 'divide':
   for i in range(time):
     num = int(input("Enter digit: "))
     total = total / num
+
+print("Your solution os: " + str(total))
