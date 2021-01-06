@@ -21,7 +21,7 @@ if operation == 'sub':
 #multiplication
 if operation == 'multiply':
   num1 = int(input("Enter digit: "))
-  total = num
+  total = num1
   for i in range(time-1):
     num = int(input("Enter digit: "))
     total = total * num
